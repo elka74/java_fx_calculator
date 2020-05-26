@@ -1,0 +1,25 @@
+.button {
+    -fx-padding: 5 22 5 22;
+    -fx-border-color: #DAA520;
+    -fx-border-width: 2;
+    -fx-background-color: #008B8B;
+    -fx-background-insets: 0 0 0 0, 0, 1, 2;
+
+}
+
+.button:hover {
+    -fx-background-color: #808000;
+    -fx-font-size : 30;
+}
+
+.anchor{
+-fx-background-image: url("/image/0.jpg");
+}
+.text-field {
+-fx-border-color: #B8860B;
+ -fx-border-width: 4;
+    -fx-background-color: #FFFFE0;
+    -fx-font-size: 28pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: #0000FF;
+}
